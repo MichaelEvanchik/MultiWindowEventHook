@@ -1,8 +1,7 @@
 /*
-FileName:Hookmain.cpp
-Use:Hooking dll
+FileName:MultiWindowEventHook.cpp
 
-Author- Venkat Mani
+Author- Michael Evanchik
 
 
 
